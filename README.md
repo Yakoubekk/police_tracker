@@ -16,4 +16,4 @@ A lightweight and highly optimized FiveM script that allows specific duty fracti
 2. Extract the `police_tracker` folder into your server's `resources` directory.
 3. Add the following line to your `server.cfg`:
    ```cfg
-   ensure police_tracker
+   ensure car_tracker
